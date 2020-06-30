@@ -1,8 +1,8 @@
 ---
-title: Blog
+title: 'Meta Project: The Making Of Patch Notes'
+layout: blog
 menu:
   main:
-    name: Blog
     weight: 3
-layout: blog
+
 ---
